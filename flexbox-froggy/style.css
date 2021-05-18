@@ -1,0 +1,72 @@
+#pond {
+    display: flex;
+    /* width: 600px;*/
+    height: auto;
+    background-color: sandybrown;
+    align-items: center;
+    justify-content: space-around;
+    padding: 100px 100px;
+
+}
+
+#box1 {
+    border: seashell;
+    border-width: 2px;
+    border-style: solid;
+    width: 150px;
+    height: 150px;
+    background-color: rebeccapurple;
+
+    color: seashell;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 150px;
+    
+
+}
+
+#box2 {
+    border: seashell;
+    border-width: 2px;
+    border-style: solid;
+    width: 150px;
+    height: 150px;
+    background-color: rgb(51, 121, 153);
+
+    color: seashell;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 150px;
+
+
+}
+
+#box3 {
+    border: seashell;
+    border-width: 2px;
+    border-style: solid;
+    width: 150px;
+    height: 150px;
+    background-color: rgb(146, 31, 102);
+
+    color: seashell;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 150px;
+
+}
+
+#box4 {
+    border: seashell;
+    border-width: 2px;
+    border-style: solid;
+    width: 150px;
+    height: 150px;
+    background-color: rgb(115, 146, 31);
+
+    color: seashell;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 150px;
+
+}
